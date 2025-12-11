@@ -1,12 +1,10 @@
-## Hi there 👋
+## Academic Portfolio | PhD at UC Irvine
 
-<!--
+This organization hosts the codebase for my PhD studies and research at the **University of California, Irvine**.
 
-**Here are some ideas to get you started:**
+**Key Contents:**
+* Coursework Solutions (CS204, CS273A, etc.)
+* Research Projects & Publications
+* Fellowship Materials
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+_All work herein represents my personal academic progress._
